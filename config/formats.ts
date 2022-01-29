@@ -3576,7 +3576,7 @@ export const Formats: FormatList = [
 			`&bullet; <a href="https://github.com/Umbriwii/kiwiishowdownmodtest/">National Dex AG</a>`,
 		],
 
-		mod: 'gen8',
+		mod: 'grondiatesting',
 		ruleset: ['Standard NatDex'],
 	},
 ];
